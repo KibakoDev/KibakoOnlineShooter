@@ -32,6 +32,10 @@
 			"Name": "Weapons_Sounds_III",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/00fb6a666e4840b387581ff07b9f5e01"
+		},
+		{
+			"Name": "SteamSockets",
+			"Enabled": true
 		}
 	]
 }
