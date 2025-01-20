@@ -36,6 +36,25 @@
 		{
 			"Name": "SteamSockets",
 			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemGooglePlay",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Android"
+			]
+		},
+		{
+			"Name": "OnlineSubsystemIOS",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"IOS",
+				"TVOS"
+			]
+		},
+		{
+			"Name": "OnlineSubsystemNull",
+			"Enabled": false
 		}
 	]
 }
