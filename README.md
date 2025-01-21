@@ -12,7 +12,7 @@ Created in under 5 days, the game includes a single arena map and demonstrates a
 - A system capable of running Unreal Engine 5 games (DirectX 11/12).  
 
 ## Installation
-1. Download the latest compiled build from the [Releases](./releases) section.
+1. Download the latest compiled build from the releases section.
 2. Extract the files and run the executable to play.
 
 ---
