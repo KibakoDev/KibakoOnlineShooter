@@ -8,7 +8,7 @@ Created in under 5 days, the game includes a single arena map and demonstrates a
 🚧 **Prototype**: This is an early-stage project designed for testing and experimentation.
 
 ## Requirements
-- A Steam account (Spacewar's AppID: 480 is used here for testing).
+- A Steam account (Spacewar's AppID is used here for testing).
 - A system capable of running Unreal Engine 5 games (DirectX 11/12).  
 
 ## Installation
